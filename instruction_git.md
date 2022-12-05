@@ -21,4 +21,10 @@ Git это программа...
     git diff
     git diff <hash1> <hash2>
 
+    git checkout <hash>
+
+    git log
+    git log --oneline
+    git log --all
+    git log --all --oneline
     
