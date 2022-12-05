@@ -13,3 +13,8 @@ Git это программа...
 Для того, что бы проверить в каком состоянии находится репозиторий нужно ввести команду:
 
     git status
+
+    git add <File name>
+    git commit -m "message"
+    git commit -am "message"
+    
