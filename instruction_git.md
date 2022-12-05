@@ -17,4 +17,8 @@ Git это программа...
     git add <File name>
     git commit -m "message"
     git commit -am "message"
+
+    git diff
+    git diff <hash1> <hash2>
+
     
