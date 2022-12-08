@@ -148,16 +148,7 @@ git branch <branch_name>
 
 ### Что бы объединить ветку с текущей нужно использовать команду:
 
-<<<<<<< HEAD
-**объединение ветки происходит из ветки которую мы хотим объединить в ветку в которой мы**
-**на данный момент находимся**
-
     git merge <branch_name>
-
-
-=======
-    git merge <branch_name>
-
 
 ### Показать последовательность коммитов в обратном хронологическом порядке, начиная с текущего:
 
@@ -175,16 +166,6 @@ git branch <branch_name>
 
     git log --graph
 
-    
->>>>>>> adds1
-описание команд:
+### Ну и собственно не могу сообразить как корректно сделать поисание для команды:
 
-    git branch
-    git branhc <branch_name>
-    git branch -d <branhc_name>
-    git checkout <branch_name>
-    git log --graph
     git log --all --oneline --graph
-    git merge <branch_name>
-
-    Конфликт слияния и его разрешение
