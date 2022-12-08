@@ -138,7 +138,7 @@ git branch <branch_name>
 
     git checkout <branch_name>
 
-### xnj ,s
+### что бы отобразить журнал комитов с ветвлениями и историей слияния используем команду:
 
     git log --graph
 
