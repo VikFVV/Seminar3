@@ -162,7 +162,7 @@ git branch <branch_name>
     git branch -d <branhc_name>
     git checkout <branch_name>
     git log --graph
-    git log __all --oneline --graph
+    git log --all --oneline --graph
     git merge <branch_name>
 
     Конфликт слияния и его разрешение
